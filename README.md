@@ -30,6 +30,9 @@ To solve the above mentioned problem we are building a GUI  which helps the stud
 * HTML
 * CSS
 
+# Role in Team Project
+* Neelangshu Nath(Me): Model Building and integration of the model with Flask App at the backend also drawing canvas desinging .
+
 ![](Screenshots/SS1.png)
 ![](Screenshots/SS2.png)
 ![](Screenshots/SS3.png)
